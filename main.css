@@ -1,0 +1,14 @@
+html{
+  height:100%;
+}
+body{
+  height:100%;
+  backgronud-color:black;
+  background-image: url("gandosniai.jpg");
+  background-size: 65% auto;
+  background-repeat:no-repeat;
+  background-position: 50% 0%;
+  text-align: center;
+  color:white;
+  font-family: 'Dosis', sans-serif;
+}
